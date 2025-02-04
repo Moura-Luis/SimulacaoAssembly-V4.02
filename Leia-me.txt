@@ -1,0 +1,5 @@
+## Universidade Federal do Maranhão
+## Projeto-Simulação Assembly feita em C
+## Arquitetura MIPS32
+
+## Feito por Stenio Fonseca e Luis Moura
